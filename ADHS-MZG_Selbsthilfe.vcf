@@ -1,6 +1,6 @@
 BEGIN:VCARD
 VERSION:3.0
-ADR;TYPE=x-other:;;;Merzig;Saarland;66663;Germany
+ADR;TYPE=other:;;;Merzig;Saarland;66663;Germany
 EMAIL;TYPE=work:adhs-mzg@mailbox.org
 FN:ADHS-MZG Selbsthilfe
 NOTE:Ansprechpartner:\nViktoria Mathieu & Michael Kaufmann\n\nTreffen finde
